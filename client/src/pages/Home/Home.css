@@ -1,0 +1,63 @@
+#header{
+	background-color: #1e2e5c;
+	border: 3px black solid;
+	margin-bottom: 50px;
+}
+#head{
+	color: white;
+    padding: 36px;
+    font-size: 85px;
+    font-family: cursive;
+}
+
+.background {
+	background-color: #283e51;
+	border-bottom: 3px black solid;
+	padding: 11px;
+    color: white;
+    font-family: cursive;
+}
+
+.panel {
+	margin-top: 68px;
+	border: 3px black solid;
+}
+.label-primary {
+    background-color: #283e51;
+    margin-right: 15px;
+    border: 1px black solid;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+h2, .h2 {
+    font-size: 25px;
+    text-decoration: underline;
+    color: #283e51;
+}
+.snippet{
+	color: #283e51;
+    margin-top: 11px;
+    margin-bottom: 7px;
+    margin-left: 177px;
+}
+
+a {
+    color: #1e2e5c;
+    text-decoration: none;
+    margin-left: 177px;
+}
+.well {
+	border: 1px black solid;
+}
+
+.button{
+	margin-right: 20px;
+}
+
+#savedLink{
+	font-size: 40px;
+    text-decoration: underline;
+    margin-left: 442px;
+}
